@@ -13,7 +13,7 @@
 <h1 align="center">We are developing and supporting quality Software Solutions to millions of clients globally.
 	           We are raising billionaires IT professionals accross the nations of the World.
 	We offer Training for DevOps with Linux, Kubernetes and Cloud, equipping IT Engineers for best performance.
-        Infinity technologies, the Pride of Africa.
+        Infinity technologies
 	Class1 DevOps MasterClass started on Oct 14, 2025. </h1>
 <hr>
 <br>
